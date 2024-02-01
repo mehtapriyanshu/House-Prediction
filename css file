@@ -1,1 +1,9 @@
-
+*{
+    background-color:normal;
+}
+#class{
+    color:blue;
+}
+#label{
+    color : pink;
+}
