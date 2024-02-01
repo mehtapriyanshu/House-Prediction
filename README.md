@@ -1,9 +1,9 @@
 # House-Prediction-
-# This is the Python for the house prediction project using flask 
+# This is the Python code  for the house prediction project using flask 
 from flask import Flask ,render_template,request
 import pandas as pd
 import numpy as np
-# import sklearn
+import sklearn
 import pickle 
 app = Flask(__name__)
 
