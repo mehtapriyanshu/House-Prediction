@@ -1,4 +1,4 @@
-	location	total_sqft	bath	price	bhk
+	location,	total_sqft,	bath,	price,	bhk
 0	1st Block Jayanagar	2850	4	428	4
 1	1st Block Jayanagar	1630	3	194	3
 2	1st Block Jayanagar	1875	2	235	3
