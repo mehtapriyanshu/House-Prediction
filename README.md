@@ -16,14 +16,14 @@ Some packages are:
  - numpy
  - pandas
  - scikit-learn
-Run the application using the python file
+Run the application using the app.py file
  # Description
 
 ## What does This Project do?
-1. This project takes the parameters of a house like Location , Number of bathrooms,Number of bedrooms,Bhk
-2. It then predict the possible price of the house. for example, the image below shows the predicted price of house Area 1st Block Jayanagar
+1. This project takes the parameters of a house like Location, Number of bathrooms, Number of bedrooms, Bhk
+2. It then predicts the possible price of the house. for example, the image below shows the predicted price of a house Area 1st Block Jayanagar
    ![image](https://github.com/mehtapriyanshu/House-Prediction-/assets/125463390/4315d396-858e-48ac-a890-c80f29fa26e1)
-## How this project does ?
+## How  this project does?
 1. First of all the data was scraped from Kaggle.com
 2. The data was cleaned
 3. Then a linear Regression model was built
