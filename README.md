@@ -21,7 +21,8 @@ Run the application using the app.py file
 
 ## What does This Project do?
 1. This project takes the parameters of a house like Location, Number of bathrooms, Square feet, Bhk
-2. It then predicts the possible price of the house. for example, the image below shows the predicted price of a house Area %th phase of jP Nagar
+2. It then predicts the possible price of the house. for example, the image below shows the predicted price of a house Area 5th phase of JP Nagar
+
    ![image](https://github.com/mehtapriyanshu/House-Prediction/assets/125463390/c1de2853-7be9-4005-b638-95d13ce928b9)
 
 ## How  this project does?
