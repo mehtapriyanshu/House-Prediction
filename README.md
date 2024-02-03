@@ -2,9 +2,9 @@
 ![image](https://github.com/mehtapriyanshu/House-Prediction-/assets/125463390/f2dffad2-efc4-4385-80ac-a49b1b1d8dd8)
 
 # AIM
-This project aims to predict the of a house in Bangalore city by taking the Area of location, BHK, Number of Bedrooms, Number of bathrooms
- 
-![image](https://github.com/mehtapriyanshu/House-Prediction-/assets/125463390/14493ae0-12bc-4fe8-94d7-06caff553df2)
+This project aims to predict the of a house in Bangalore city by taking the Area of location, BHK, Number of Bathrooms, Square feet
+ ![image](https://github.com/mehtapriyanshu/House-Prediction/assets/125463390/07580018-3173-4829-b624-0a70b4566ebe)
+
 
 
 ## How To Use?
@@ -20,9 +20,10 @@ Run the application using the app.py file
  # Description
 
 ## What does This Project do?
-1. This project takes the parameters of a house like Location, Number of bathrooms, Number of bedrooms, Bhk
+1. This project takes the parameters of a house like Location, Number of bathrooms, Square feet, Bhk
 2. It then predicts the possible price of the house. for example, the image below shows the predicted price of a house Area 1st Block Jayanagar
-   ![image](https://github.com/mehtapriyanshu/House-Prediction-/assets/125463390/4315d396-858e-48ac-a890-c80f29fa26e1)
+   ![image](https://github.com/mehtapriyanshu/House-Prediction/assets/125463390/c1de2853-7be9-4005-b638-95d13ce928b9)
+
 ## How  this project does?
 1. First of all the data was scraped from Kaggle.com
 2. The data was cleaned
